@@ -1,0 +1,49 @@
+.nav-item a {
+    color : white;
+}
+
+.skill-img {
+    width: 100%;
+    max-height: 200px;
+}
+
+.skill-icons img {
+    height: 50px;
+    width: 50px;
+}
+
+#bootstrap-icon {
+    color: #712cf9;
+}
+
+.job-img {
+    max-height: 300px;
+    width: auto;
+}
+
+.job-title {
+    color: black;
+    opacity: 80%;
+    transition: all .23s ease;
+}
+
+.job-title:hover {
+    opacity: 40%;
+}
+
+.contactInfo {
+    list-style: none;
+    height: 100%;
+}
+
+.contactInfo li span {
+    font-size: large;
+}
+
+.contactInfo li span::before {
+    margin-right: 15px;
+}
+
+.img-itsup{
+    max-height: 200px;
+}
